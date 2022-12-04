@@ -19,6 +19,8 @@ requests = "*"
 seaborn = "*"
 wordcloud = "*"
 gensim = "*"
+networkx = "*"
+tweepy = "*"
 
 [dev-packages]
 
