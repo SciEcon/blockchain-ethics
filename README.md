@@ -2,6 +2,8 @@
 
 Portfolio repo for *AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security*
 
+![](https://github.com/SciEcon/blockchain-ethics/blob/main/figures/Wordcount.png)
+
 ## Table of Contents
 - [blockchain-ethics](#blockchain-ethics)
   - [Environment Setup](#environment-setup)
