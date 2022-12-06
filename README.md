@@ -1,6 +1,6 @@
 # blockchain-ethics
 
-Portfolio repo for *AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security*
+** Portfolio for AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security**
 
 ## Table of Contents
 - [blockchain-ethics](#blockchain-ethics)
