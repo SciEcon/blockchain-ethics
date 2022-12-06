@@ -21,6 +21,7 @@ wordcloud = "*"
 gensim = "*"
 networkx = "*"
 tweepy = "*"
+kaleido = "*"
 
 [dev-packages]
 
