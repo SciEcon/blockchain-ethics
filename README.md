@@ -2,6 +2,9 @@
 
 Portfolio repo for *AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security*
 
+![](https://github.com/SciEcon/blockchain-ethics/blob/main/figures/Wordcount.png)
+
+## Table of Contents
 - [blockchain-ethics](#blockchain-ethics)
   - [Environment Setup](#environment-setup)
   - [Folders](#folders)
@@ -23,8 +26,8 @@ pipenv shell
 
 ## Folders
 
-| Folder  | Description                                                                     |
-| ------- | ------------------------------------------------------------------------------- |
+| Folder  | Description                                                                     | URL |
+| ------- | ------------------------------------------------------------------------------- | ---|
 | code    | Jupyter notebooks containing code for fetching, processing and visualizing data |
 | figures | Figure produced from the code                                                   |
 | data    | Queried or auxiliary data files created by the code                             |
