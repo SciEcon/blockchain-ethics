@@ -5,6 +5,21 @@
 - Paper accepted and presented at [SAI Computing Conference, London, 2023](https://saiconference.com/Computing)
 - by **Yihang Fu, Zesen Zhuang, and [Luyao Zhang](http://scholars.duke.edu/person/luyao.zhang)\***
 
+## CC-BY 4.0 Datasets on Harvard Dataverse
+Yihang Fu; Zesen Zhuang; Luyao Zhang, 2023, "Replication Data for: AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security", https://doi.org/10.7910/DVN/CTBEF7, Harvard Dataverse, V2, UNF:6:JV12jMWLzoNbU5bbBQiobg== [fileUNF]
+```
+@data{DVN/CTBEF7_2023,
+author = {Yihang Fu and Zesen Zhuang and Luyao Zhang},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security}},
+UNF = {UNF:6:JV12jMWLzoNbU5bbBQiobg==},
+year = {2023},
+version = {V2},
+doi = {10.7910/DVN/CTBEF7},
+url = {https://doi.org/10.7910/DVN/CTBEF7}
+}
+```
+
 ## Table of Contents
 - [blockchain-ethics](#blockchain-ethics)
   - [Environment Setup](#environment-setup)
