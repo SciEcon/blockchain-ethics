@@ -1,5 +1,7 @@
 # AI Ethics on Blockchain
 
+[![DOI](https://zenodo.org/badge/569298752.svg)](https://zenodo.org/badge/latestdoi/569298752)
+
 **Portfolio for "AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security"**
 
 - Paper accepted and presented at [SAI Computing Conference, London, 2023](https://saiconference.com/Computing)
