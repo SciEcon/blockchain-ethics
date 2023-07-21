@@ -2,7 +2,7 @@
 
 **Portfolio for "AI Ethics on Blockchain: Topic Analysis on Twitter Data for Blockchain Security"**
 
-- Paper accepted by [SAI Computing Conference 2023](https://saiconference.com/Computing)
+- Paper accepted and presented at [SAI Computing Conference, London, 2023](https://saiconference.com/Computing)
 - by **Yihang Fu, Zesen Zhuang, and [Luyao Zhang](http://scholars.duke.edu/person/luyao.zhang)\***
 
 ## Table of Contents
